@@ -2,7 +2,9 @@
 
 A kitchen board and an order tracking page that stay in step with no polling and no refresh. Built with [Guren](https://github.com/gurenjs/guren) on Bun, using Inertia live props.
 
-[![Two browser windows: the kitchen board on the left, a customer's order page on the right](docs/images/demo.png)](https://x.com/gurenjs/status/2120859070328651935)
+
+https://github.com/user-attachments/assets/3c07c0ae-afd3-492b-91b4-60902dfec914
+
 
 The kitchen marks an order ready in one window. The customer's page in the other window changes by itself.
 
