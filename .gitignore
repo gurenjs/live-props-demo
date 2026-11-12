@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+data/
+public/assets/
+.guren/ssr/
+.guren/mcp-app/
+.DS_Store
+docs/plans/**/*.html
+*.plan.html
+
+# Recordings made by recording/record.mjs
+recording/out/
